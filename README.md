@@ -29,6 +29,15 @@
     ```
     ![](https://hexo.moonkite.cn/blog/20231018172250.png)
 
+3. 打包项目（本地启动不需要这一步）：
+   
+   **windows 环境**
+   
+   `set PUBLIC_URL=./ yarn build`
+   
+   **mac or linux**
+   
+   `PUBLIC_URL=./ yarn build`
 
 ## 使用方式
 
